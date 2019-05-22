@@ -29,13 +29,13 @@
                 "money": -23,
                 "remainder": 223,
                 "name": "XXX广告",
-                "date": "2018.08.08"
+                "date": 0
             },
             {
                 "money": 23.00,
                 "remainder": 223.03545,
                 "name": "XXX广告",
-                "date": "2018.08.08"
+                "date": 45635646
             }
         ],
         "chosenADProvider": -1,
