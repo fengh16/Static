@@ -38,7 +38,7 @@
                 "date": "2018.08.08"
             }
         ],
-        "chosenADProvider": 0,
+        "chosenADProvider": -1,
         "ADProviders": [
             {
                 "id": 0,
