@@ -26,14 +26,14 @@
         "ADcount": "20",
         "ADHistories": [
             {
-                "money": "+23.00",
-                "remainder": "223.00",
+                "money": -23,
+                "remainder": 223,
                 "name": "XXX广告",
                 "date": "2018.08.08"
             },
             {
-                "money": "+23.00",
-                "remainder": "223.00",
+                "money": 23.00,
+                "remainder": 223.03545,
                 "name": "XXX广告",
                 "date": "2018.08.08"
             }
